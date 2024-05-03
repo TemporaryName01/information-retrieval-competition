@@ -1,6 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3DbKuh4a)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nDCOQnZo)
 
-# 효율적인 One-Class 이상치 탐지: 화학공정 데이터를 활용한 시각화
+# 효율적인 RAG 구축 공략 : 과학지식 편(The Goal of Building an Efficient RAG: Scientific Knowledge)
+
 
 ## Team
 
@@ -9,51 +10,40 @@
 <td>  <div  align=center> 1 </div>  </td>
 <td>  <div  align=center> 2 </div>  </td>
 <td>  <div  align=center> 3 </div>  </td>
-</tr>
-<tr>
-<td>  <div  align=center>  <b>가상민</b>  </div>  </td>
-<td>  <div  align=center>  <b>신동혁</b>  </div>  </td>
-<td>  <div  align=center>  <b>김도연</b>  </div>  </td>
-</tr>
-<tr>
-<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/76687996/6c21c014-1e77-4ac1-89ac-72b7615c8bf5"  width="250"  height="300"/>  </td>
-<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/c4cb11ba-e02f-4776-97c8-9585ae4b9f1d"  width="250"  height="300"/>  </td>
-<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/3d913931-5797-4689-aea2-3ef12bc47ef0"  width="250"  height="300"/>  </td>
-</tr>
-<tr>
-<td>  <div  align=center>  <a  href="https://github.com/3minka">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
-<td>  <div  align=center>  <a  href="https://github.com/Godjumo">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
-<td>  <div  align=center>  <a  href="https://github.com/d-yeon">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
-
-</tr>
-</table>
-
-<table>
-<tr>
 <td>  <div  align=center> 4 </div>  </td>
 <td>  <div  align=center> 5 </div>  </td>
 <td>  <div  align=center> 6 </div>  </td>
-<td>  <div  align=center> 7 </div>  </td>
+<td>  <div  align=center> 6 </div>  </td>
 </tr>
 <tr>
+<td>  <div  align=center>  <b>가상민</b>  </div>  </td>
 <td>  <div  align=center>  <b>김다운</b>  </div>  </td>
+<td>  <div  align=center>  <b>김도연</b>  </div>  </td>
 <td>  <div  align=center>  <b>서상혁</b>  </div>  </td>
-<td>  <div  align=center>  <b>장호준</b>  </div>  </td>
+<td>  <div  align=center>  <b>신동혁</b>  </div>  </td>
 <td>  <div  align=center>  <b>이소영</b>  </div>  </td>
+<td>  <div  align=center>  <b>장호준</b>  </div>  </td>
+
+<tr>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/76687996/6c21c014-1e77-4ac1-89ac-72b7615c8bf5"  width="250"  height="200"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0f945311-9828-4e50-a60c-fc4db3fa3b9d"  width="250"  height="200"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/3d913931-5797-4689-aea2-3ef12bc47ef0"  width="250"  height="200"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/a4dbcdb5-1d28-4b91-8555-1168abffc1d0"  width="250"  height="200"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/c4cb11ba-e02f-4776-97c8-9585ae4b9f1d"  width="250"  height="200"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/685b52f9-872e-4456-933f-2bead5efba2b"  width="250"  height="200"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/HojunJ/conventional-repo/assets/76687996/d2bef206-7699-4028-a744-356b1950c4f1"  width="250"  height="200"/>  </td>
 </tr>
 <tr>
-<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0f945311-9828-4e50-a60c-fc4db3fa3b9d"  width="250"  height="300"/>  </td>
-<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/a4dbcdb5-1d28-4b91-8555-1168abffc1d0"  width="250"  height="300"/>  </td>
-<td>  <img  alt="Github"  src ="https://github.com/HojunJ/conventional-repo/assets/76687996/d2bef206-7699-4028-a744-356b1950c4f1"  width="250"  height="300"/>  </td>
-<td>  <img  alt="Github"  src ="https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/85b14aed-b780-4d9d-b51e-5c497b7c4220"  width="250"  height="300"/>  </td>
-</tr>
-<tr>
+<td>  <div  align=center>  <a  href="https://github.com/3minka">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
+<td>  <div  align=center>  <a  href="https://github.com/HyeokBro">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
+<td>  <div  align=center>  <a  href="https://github.com/d-yeon">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
 <td>  <div  align=center>  <a  href="https://github.com/Daw-ny">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
 <td>  <div  align=center>  <a  href="https://github.com/devhyuk96">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
-<td>  <div  align=center>  <a  href="https://github.com/HojunJ">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
 <td>  <div  align=center>  <a  href="https://github.com/8pril">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
+<td>  <div  align=center>  <a  href="https://github.com/HojunJ">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
 </tr>
 </table>
+
   
 
 ## 0. Overview
@@ -66,59 +56,106 @@
 
 ### Requirements
 
-astunparse==1.6.3  
-attrs==23.1.0  
-brotlipy==0.7.0  
-dnspython==2.4.2  
-expecttest==0.1.6  
-fsspec==2023.9.2  
-hypothesis==6.87.1  
-joblib==1.3.2  
-jsonpointer==2.1  
-matplotlib==3.8.2  
-mkl-service==2.4.0  
-nbformat==5.9.2  
 pandas==2.1.4  
-pathlib==1.0.1  
-plotly==5.18.0  
-pyarrow==14.0.2  
-python-dateutil==2.8.2  
-python-etcd==0.4.5  
-scikit-learn==1.3.2  
-scipy==1.11.4  
-sortedcontainers==2.4.0  
-threadpoolctl==3.2.0  
-triton==2.1.0  
-types-dataclasses==0.6.6  
-tzdata==2023.4   
+numpy==1.23.5  
+wandb==0.16.1  
+tqdm==4.66.1  
+pytorch_lightning==2.1.2  
+transformers[torch]==4.35.2  
+rouge==1.0.1  
+jupyter==1.0.0  
+jupyterlab==4.0.9  
 
 ## 1. Competiton Info
 
 ### Overview
 
-24시간 내내 운영되는 화학 공정은 이상이 발생하면 막대한 금전적 피해를 입을 수 있습니다. 공정 상태를 예측하고 대비책을 마련하는 것이 중요한 과제인데, 이를 위해서는 공정 데이터를 이해하고 이상 징후를 파악하는 것이 필수적입니다.
+LLM의 등장 이후 여러 산업 분야에서 지식을 다루는 업무들이 점점 고도화되고 있습니다.
 
-본 대회는 화학 공정 데이터를 이용한 이상 탐지(anomaly detection)를 수행하여, 공정 데이터에서 비정상적인 동작을 탐지하는 것을 목표로 합니다. 이를 통해 공정에서 발생할 수 있는 문제를 예측하고 대비할 수 있습니다.
+특히 정보를 찾기 위해 검색엔진의 입력창에 키워드를 입력하고 결과를 확인하고 원하는 정보가 없으면 다른 키워드로 다시 검색하기를 반복하는 번거로운 과정을 이제 더이상 자주 할 필요가 없어졌습니다.
 
-본 대회에서 사용되는 입력 데이터와 출력 데이터는 모두 CSV 파일 형태로 제공됩니다. 입력 데이터로는 약 25만 개의 화학 공정 데이터가 제공되며, 이에 대응하는 약 7만 2천 개의 출력 데이터가 제공됩니다.
+이제 LLM한테 물어보면 질문의 의도까지 파악해서 필요한 내용만 잘 정리해서 알려 줍니다.
 
-이상 탐지를 위한 알고리즘 개발은 화학 공정 분야에서 매우 중요한 과제이며, 이를 통해 공정의 안정성을 높이고 예기치 않은 문제를 예방할 수 있다는 점에서 큰 의미가 있습니다.
+![image](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/78ef61cd-4da4-46e0-ad07-baa2d5ea980d)
 
+그렇지만 LLM이 가진 근본적인 한계도 있습니다.
+
+먼저, 정보라는 것은 의미나 가치가 시간에 따라 계속 변하기 때문에 모델이 이를 실시간으로 학습하기 힘들고 이 때문에 아래 예시처럼 knowledge cutoff 가 자연스럽게 발생합니다.
+
+![image](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/4f85b2f0-cc29-499b-8b6e-7a99b0c2070c)
+
+그리고 LLM이 알려주는 지식이 항상 사실에 기반한 것이 아닌 경우가 종종 있습니다. 특히 특정 도메인이나 문제 영역은 매우 심각한 거짓 정보들을 생성해 내곤 합니다. 아래 예시에서 추천하는 맛집들은 모두 실재하지 않는 장소들입니다.
+
+![image](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/05fbcf71-2119-4c0e-bc87-e5e69bd01ca8)
+
+이러한 환각 현상은 메타인지를 학습하지 않은 LLM의 근본적인 한계라 볼 수 있습니다.
+
+모델은 학습 과정에서 정보를 압축해서 저장하기 때문에 정보의 손실이 발생할 수밖에 없고, 이 때문에 특정 입력 조건에 대해서는 사실 여부보다는 지식를 표현하는 국소적인 패턴이 더 큰 영향을 주면서 답변이 생성될 수 있기 때문입니다.
+
+이러한 문제를 극복하기 위해서는 RAG(Retrieval Augmented Generation) 기술이 필수입니다.
+
+RAG는 질문에 적합한 레퍼런스 추출을 위해 검색엔진을 활용하고 답변 생성을 위해 LLM(Large Language Model)을 활용합니다.
+
+이때 LLM은 스스로 알고 있는 지식을 출력하기보다는 언어 추론 능력을 극대화하는 것에 방점을 둡니다.
+
+이렇게 사실에 기반한 지식 정보를 토대로 질문에 답을 하고 출처 정보도 같이 줄 수 있기 때문에 사용자는 훨씬 더 안심하고 정보를 소비할 수 있게 됩니다.
+
+![image](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/71add39c-6301-4323-8502-a8f98291f5e1)
+
+이번 대회에서는 과학 상식을 질문하는 시나리오를 가정하고 과학 상식 문서 4200여개를 미리 검색엔진에 색인해 둡니다.
+
+대화 메시지 또는 질문이 들어오면 과학 상식에 대한 질문 의도인지 그렇지 않은 지 판단 후에 과학 상식 질문이라면 검색엔진으로부터 적합한 문서들을 추출하고 이를 기반으로 답변을 생성합니다. 
+
+만일 과학 상식 이외의 질문이라면 검색엔진을 활용할 필요 없이 적절한 답을 바로 생성합니다.
+
+마지막으로, 본 프로젝트는 모델링에 중점을 둔 대회가 아니라 RAG(Retrieval Augmented Generation) 시스템의 개발에 집중하고 있습니다. 이 대회는 여러 모델과 다양한 기법, 그리고 앙상블을 활용하여 모델의 성능을 향상시키는 일반적인 모델링 대회와는 다릅니다. 대신에 검색 엔진이 올바른 문서를 색인했는지, 그리고 생성된 답변이 적절한지 직접 확인하는 것이 중요한 대회입니다.
+
+따라서, 참가자들은 작은 규모의 토이 데이터셋(10개 미만)을 사용하여 초기 실험을 진행한 후에 전체 데이터셋에 대한 평가를 진행하는 것을 권장합니다. 실제로 RAG 시스템을 구축할 때에도 이러한 방식이 일반적으로 적용되며, 이를 통해 실험을 더욱 효율적으로 진행할 수 있습니다. 따라서 이번 대회는 2주간 진행되며, 하루에 제출할 수 있는 횟수가 5회로 제한됩니다.
+
+자, 이제 여러분만의 RAG 시스템을 구축하러 가보실까요~?
 
 
 ## Evaluation Metric
 
-본 대회에서는 정상과 이상에 대한 F1-Score 를 계산하여 모델의 성능을 평가합니다.
+사용자가 입력한 질문에 대해서 답변을 얼마나 잘 생성했는지 정량화하는 작업은 매우 고난도의 작업입니다.
 
-이상인 경우 : 1
+어떤 질문에 대해서도 정답이 정해져 있는 것이 아니라 다양한 형태로 표현해 낼 수 있기 때문입니다.
 
-정상인 경우 : 0
+그나마 어느 정도의 객관성을 확보하기 위해서는 다수의 사람이 직접 평가하는 방식을 사용할 수밖에 없습니다.
 
-사용되는 정답 Label 은 위와 같으며, 실제 정답의 정상/이상과 모델의 정상/이상을 계산하여 F1 Score 를 산출합니다.
+그렇지만 대회에서는 자동화된 평가 방법을 적용해야 하기 때문에 RAG에 대한 end-to-end 평가 대신 적합한 레퍼런스를 얼마나 잘 추출했는지에 대한 평가만 진행합니다.
 
-Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산정은 F1 Score 만을 기준으로 합니다.
+이번 평가에서는 MAP(Mean Average Precision)라는 metric을 사용합니다. MAP는 질의 N개에 대한 Average Precision의 평균 값을 구하고, Average Precision은 Precision-recall curve에서 아래쪽 면적을 의미합니다.
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/d4cfde14-b602-4862-b536-37a4f6970be7)
+계산 과정은 도식화하면 아래 그림과 같습니다.
+
+![image](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/fcc26d42-8929-4271-93e1-438498ffaba2)
+
+그런데 이번 대회에서는 MAP를 약간 변형하여 RAG 평가에 적합하도록 살짝 수정한 형태의 로직을 사용합니다.
+
+대화 메시지가 과학 상식에 대한 질문일 수도 있고 아닐수도 있기 때문에 과학 상식 질문이 아닌 경우는 문서를 추출할 필요가 없습니다. 그래서 검색이 필요없는 ground truth 항목에 대해서는 검색 결과가 없는 경우를 1점으로 주고 그렇지 않는 경우는 0점으로 계산하게 로직을 추가했습니다.
+
+아래 코드의 else 부분이 이에 해당하고 나머지 로직은 원래 MAP 계산 로직을 그대로 따릅니다.
+
+```
+def calc_map(gt, pred):    
+    sum_average_precision = 0    
+    for j in pred:        
+        if gt[j["eval_id"]]:            
+            hit_count = 0            
+            sum_precision = 0            
+            for i,docid in enumerate(j["topk"][:3]):                
+                if docid in gt[j["eval_id"]]:                    
+                    hit_count += 1                    
+                    sum_precision += hit_count/(i+1)            
+            average_precision = sum_precision / hit_count if hit_count > 0 else 0        
+        else:            
+            average_precision = 0 if j["topk"] else 1        
+        sum_average_precision += average_precision    
+    return sum_average_precision/len(pred)
+```
+
+다운로드 받은 data.tar.gz 에 포함된 eval.jsonl을 사용하여 결과물 생성하고, 이 결과물을 제출하면 리더보더에 반영됩니다.
 
 ## 2. Components
 
@@ -128,80 +165,47 @@ Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산�
 
 ## 3. Strategy
 
-### Dataset overview
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/bfa1e3ff-c8a4-48b7-997e-3dfca4ccbcb8)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/e2bfc1a5-7c2a-41c0-9d8a-dcee80e0d065)
-
-### EDA
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/7ee06bc9-54e8-48a4-ba76-623861b4c3bd)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/41319b9c-6573-41c7-81cc-9a51569d3c8e)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/6994102c-db13-48c8-bdc9-f86bf244e165)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/bee81b78-d281-4f6b-a846-bd272712aa07)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/cd52c5a6-e273-4ec6-ac37-dec037a3f685)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/c1d48682-8fe3-4e62-ac68-3e42d926b05e)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/b06954e8-f956-445e-b7f2-ee61afe539c7)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (8)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/49c0cc28-6160-4021-b0cb-b727c765be31)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (9)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/435cb476-f7d7-4eb4-953b-5fe1182326f8)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (10)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f0efa3f3-6bb9-4c81-a907-cb0243a224df)
 
 
-## Modeling
+## 4. 5-Aspect
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/2398e6b9-de3b-49cb-8bda-bf8c15ef9723)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (11)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/7c1f375d-6491-489e-9219-0271bdb42d8b)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (12)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/54d62234-a30c-418a-9665-ad923615736a)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (13)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/4fa86637-2f71-43ee-9595-87badbfd7c9b)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (14)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/9e79c943-e423-40c1-ae43-ae566f30eb7d)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (15)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/0c4fc87b-4b5c-4ab3-9221-cf1dab243902)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (16)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/29a2582d-a85b-46ac-9eca-38b9764b61b2)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (17)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/5c9a7add-ed46-4c61-9676-b2a31b255781)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (18)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/4faadf33-2573-4d56-88fe-d379b1147a69)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (19)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/25d36ee6-da61-4b15-b5a7-9c9f742b675b)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (20)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/d1ba1533-07bd-4ca7-b7be-0b74a2539661)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (21)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/ce7b0645-07af-4afd-8bc1-efcba565bb9a)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (22)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/58e863c2-613d-4b05-9797-ee2369385a84)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/90a9a878-c6f0-4478-8cc2-eeec315d5b12)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/b71452ae-5d61-4eb6-9f41-b00b6591ed7f)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/a49771cc-ee62-4e91-82bd-8aae5888a299)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/69c928be-6825-49fc-a873-3ebe28db152f)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/73134fac-a5ff-4066-97b4-0e6d11f4dd0c)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/7c929557-07d4-4849-be1e-32a69e32bf41)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/474338b4-5978-436c-b3d4-f3d2b9d3ac04)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/f3fd9bb2-216c-4d5d-8fb7-b8af1a3e07e0)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/c304326a-9757-46a5-a71f-bdd9f9ec26e1)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/88e45cee-30cd-4b8b-b61f-3d4c536077b2)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/248030e5-2fce-41dd-ac98-c6578a94bfe2)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/393e5314-4f58-4d3c-bdb3-5e30840e660b)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/e1465d2c-568e-45ac-9f5f-bd37ecf55445)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/86c09442-480f-4695-8ecf-993ffa262672)
 
 ## 5. Result
 
-### Leader Board - 1st
+### Leader Board - 2th
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/3093d018-13da-4665-9eb4-e701058b2f7d)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (23)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/97348b22-af71-4a78-b551-b97dd7d3b02f)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (24)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/f918e55a-d5af-4be2-8e97-712d1496891d)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (25)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/6dac382b-8ebd-493e-8049-3bec542e5332)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (26)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/5ff1ba0d-e2cb-4615-8727-7d8a2cf68bb4)
+![패스트캠퍼스  Upstage AI Lab 1기 IR Final pptx (27)](https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/18365fc1-4499-471a-843b-e764a7fea2d1)
 
-### 활용 방안
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/02fcf1ce-ae8d-47d1-841e-6efeb1fdcaab)
-- Python Dash를 활용해 InterActive Dashboard를 구성하였습니다. 임시로 전체적인 사진만 
 
 ### Presentation
-- [Google Project](https://docs.google.com/presentation/d/1MJICWO11-tY88Fn-WPqpa4e8h4p83jTm/edit#slide=id.g2c4e1232ee9_0_11)
+- [Google Project](https://docs.google.com/presentation/d/1mjfruR3dbH1T0Uw-ifn6qpIbkh_5tFiU/edit?usp=sharing&ouid=112740872612879476638&rtpof=true&sd=true)
 
 ## etc
 
 ### Meeting Log
 
-- 전체적인 내용은 [진행 Notion](https://sixth-drum-9ac.notion.site/Chemical-Process-Anomaly-Detection-dcc08017db8047a3a78e97ff96f66c1e?pvs=4), [간트차트](https://sixth-drum-9ac.notion.site/Final-d590cb0c11044d83a8d2a52459747117?pvs=4)에서 확인하실 수 있습니다.
-- Apr 8 ~ May 2 : Online & Offline Meeting 
+- 전체적인 내용은 [진행 Notion](https://www.notion.so/Scientific-Knowledge-Question-Answering-cd175584a0e7473b8c205c34ac673683?pvs=4), [간트차트](https://sixth-drum-9ac.notion.site/Final-d590cb0c11044d83a8d2a52459747117?pvs=4)에서 확인하실 수 있습니다.
+- 4월 22일 (월) 10:00 ~ 5월 2일 (목) 19:00 : Online Meeting
 
 ### Reference
 
-1. [화학 공정 데이터 칼럼 정보](https://chemicalada.blogspot.com/2016/02/classification-of-variables-in-chemical.html)
